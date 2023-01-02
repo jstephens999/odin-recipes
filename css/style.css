@@ -1,0 +1,28 @@
+body {
+    background-image: url(../images/background-pot.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rgb(65, 63, 63);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 16;
+    font-weight: 200;
+
+}
+
+h1 {
+    color: rgb(252, 252, 252);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+}
+
+ul {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 20;
+    font-weight: 200;
+}
